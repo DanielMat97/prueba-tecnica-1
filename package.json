@@ -1,0 +1,23 @@
+{
+  "name": "prueba-tecnica-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "goku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMat97/prueba-tecnica-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielMat97/prueba-tecnica-1/issues"
+  },
+  "homepage": "https://github.com/DanielMat97/prueba-tecnica-1#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
